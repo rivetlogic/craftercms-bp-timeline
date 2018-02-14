@@ -37,14 +37,7 @@ http://www.tooplate.com/view/2094-mason
                 <#if contentModel.showGallery == "true">
                     <div class="tm-main-content tm-gallery-container">                    
                         <div class="grid"> 
-                            <#list contentModel.images.item as img>
-              								
-                  				<!--<#if img.urlImage=="">
-                                  	<#assign linkImg = 'javascript:function() { return false; }'>
-                                  <#else>
-                                	<#assign linkImg = '${img.urlImage}'>
-                                </#if>-->
-                     
+                            <#list contentModel.images.item as img>                    
                                 <div class="grid-item" style="width: 280px">
                                 	<p>${img.imageTitle}</p>
                                 	<a href="${img.urlImage}" target="_blank"><img src="${img.image}" alt="Image"></a>

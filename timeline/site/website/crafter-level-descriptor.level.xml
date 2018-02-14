@@ -8,8 +8,8 @@
 	<folder-name/>
 	<createdDate>2017-10-9T16:52:48.000Z</createdDate>
 	<createdDate_dt>2017-10-9T16:52:48.000Z</createdDate_dt>
-	<lastModifiedDate>2018-02-08T22:06:41.046Z</lastModifiedDate>
-	<lastModifiedDate_dt>2018-02-08T22:06:41.046Z</lastModifiedDate_dt>
+	<lastModifiedDate>2018-02-14T18:31:27.153Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-14T18:31:27.153Z</lastModifiedDate_dt>
 	<latitud>9.937811</latitud>
 	<longitud>-84.093018</longitud>
 	<contactEmails>	<item>	<email>ruth.fernandez@rivetlogic.com</email>
@@ -21,5 +21,5 @@
 	<showGallery>true</showGallery>
 	<siteName>Mason</siteName>
 	<subtitle>Blue print</subtitle>
-	<logoImage>/static-assets/img/100x100.png</logoImage>
+	<logoImage>/static-assets/img/75x75.png</logoImage>
 </component>
