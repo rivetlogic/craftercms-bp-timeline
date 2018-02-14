@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article-page</content-type>	<display-template>/templates/web/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>38c7</objectGroupId>
+	<objectId>38c7d52b-8b74-b993-90c5-ee6c4bef3bcb</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test1</folder-name>
+	<internal-name>test1</internal-name>
+	<buttonText>Read More</buttonText>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<summary>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.</summary>
+	<image>/static-assets/img/dummyimage.jpg</image>
+	<content>&lt;p&gt;&lt;span&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?&lt;/span&gt;&lt;/p&gt;</content>
+	<createdDate>2018-01-31T22:00:51.122Z</createdDate>
+	<createdDate_dt>2018-01-31T22:00:51.122Z</createdDate_dt>
+	<lastModifiedDate>2018-02-15T22:14:13.157Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-15T22:14:13.157Z</lastModifiedDate_dt>
+	<titleArticle>Lorem Ipsum</titleArticle>
+	<dateArticle>2018-04-01T07:00:00.000Z</dateArticle>
+	<dateArticle_dt>2018-02-12T22:23:43.000Z</dateArticle_dt>
+	<dateArticle_dt_tz>Etc/GMT+12</dateArticle_dt_tz>
+</page>

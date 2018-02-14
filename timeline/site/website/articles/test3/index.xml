@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article-page</content-type>	<display-template>/templates/web/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d1c4</objectGroupId>
+	<objectId>d1c4009b-deb9-a811-1aea-6c514aa6d5cb</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test3</folder-name>
+	<internal-name>test3</internal-name>
+	<titleArticle>Maecenas blandit tortor</titleArticle>
+	<buttonText>Read More</buttonText>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<summary>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </summary>
+	<image>/static-assets/img/610x610-02.jpg</image>
+	<content>&lt;p&gt;&lt;span&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/span&gt;&lt;/p&gt;</content>
+	<createdDate>2018-02-01T19:02:40.258Z</createdDate>
+	<createdDate_dt>2018-02-01T19:02:40.258Z</createdDate_dt>
+	<lastModifiedDate>2018-02-15T22:06:35.862Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-15T22:06:35.862Z</lastModifiedDate_dt>
+	<dateArticle>2018-03-02T05:00:00.000Z</dateArticle>
+	<dateArticle_dt>2018-01-09T22:24:54.000Z</dateArticle_dt>
+	<dateArticle_dt_tz>Etc/GMT+12</dateArticle_dt_tz>
+</page>

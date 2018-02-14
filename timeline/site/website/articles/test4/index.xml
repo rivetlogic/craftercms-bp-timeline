@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article-page</content-type>	<display-template>/templates/web/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c60e</objectGroupId>
+	<objectId>c60ecc40-0e26-8098-9ebd-1d9ec8f71bc1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test4</folder-name>
+	<internal-name>test4</internal-name>
+	<titleArticle>Pellentesque auctor </titleArticle>
+	<buttonText>Read More</buttonText>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<summary>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</summary>
+	<image>/static-assets/img/610x610-02.jpg</image>
+	<content>&lt;p&gt;&lt;span&gt;"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."&lt;/span&gt;&lt;/p&gt;</content>
+	<createdDate>2018-02-02T17:04:02.773Z</createdDate>
+	<createdDate_dt>2018-02-02T17:04:02.773Z</createdDate_dt>
+	<lastModifiedDate>2018-02-12T16:25:24.756Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-12T16:25:24.756Z</lastModifiedDate_dt>
+	<dateArticle>2018-02-05T05:00:00.000Z</dateArticle>
+	<dateArticle_dt>2018-02-14T22:25:24.000Z</dateArticle_dt>
+	<dateArticle_dt_tz>Etc/GMT+12</dateArticle_dt_tz>
+</page>

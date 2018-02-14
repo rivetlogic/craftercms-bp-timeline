@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article-page</content-type>	<display-template>/templates/web/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b273</objectGroupId>
+	<objectId>b2733713-0331-0d2d-5bcf-3df6a27174b5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test2</folder-name>
+	<internal-name>test2</internal-name>
+	<buttonText>Read More</buttonText>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<summary>Quisque pellentesque urna eget sagittis imperdiet. Sed feugiat dui ut mi varius tincidunt. Praesent in libero eros. Morbi ut molestie justo. Vivamus ut odio velit.</summary>
+	<image>/static-assets/img/610x610-01.jpg</image>
+	<content>&lt;p&gt;Aliquam leo justo, condimentum quis tellus vitae, porta pharetra nunc. In dapibus sodales leo, ac finibus velit commodo at. Aenean turpis dui, euismod ac quam sit amet, pulvinar facilisis purus. Sed interdum ullamcorper eros placerat varius. Fusce pellentesque rhoncus diam id sodales. Donec mi justo, laoreet eget nibh quis, mattis lobortis purus. Sed consequat sollicitudin sapien ac fermentum. Aenean sit amet lorem felis. Nulla non lobortis ligula.&lt;/p&gt;
+&lt;p&gt;Quisque pellentesque urna eget sagittis imperdiet. Sed feugiat dui ut mi varius tincidunt. Praesent in libero eros. Morbi ut molestie justo. Vivamus ut odio velit. Morbi nec ante vitae dui eleifend volutpat. Morbi felis massa, pulvinar et viverra et, consequat malesuada massa. Aliquam ac gravida neque. Etiam a nisl ullamcorper eros semper blandit sed sed odio. Phasellus molestie facilisis nulla, sit amet rutrum urna finibus ut. In vehicula sem eget eros ullamcorper, id fringilla neque dignissim.&lt;/p&gt;</content>
+	<createdDate>2018-02-01T16:12:57.955Z</createdDate>
+	<createdDate_dt>2018-02-01T16:12:57.955Z</createdDate_dt>
+	<lastModifiedDate>2018-02-12T16:24:32.736Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-12T16:24:32.736Z</lastModifiedDate_dt>
+	<titleArticle>Quisque pellentesque urna eget sagittis imperdiet</titleArticle>
+	<dateArticle>2018-02-02T10:00:00.000Z</dateArticle>
+	<dateArticle_dt>2018-02-15T22:24:32.000Z</dateArticle_dt>
+	<dateArticle_dt_tz>America/Guatemala</dateArticle_dt_tz>
+</page>

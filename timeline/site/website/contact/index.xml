@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/contact-page</content-type>	<display-template>/templates/web/contact.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f1a5</objectGroupId>
+	<objectId>f1a5343b-1964-1171-bff7-550518719719</objectId>
+	<messagePlaceholder>Please leave us a message</messagePlaceholder>
+	<file-name>index.xml</file-name>
+	<folder-name>contact</folder-name>
+	<internal-name>contact</internal-name>
+	<namePlaceholder>You Name</namePlaceholder>
+	<emailPlaceholder>Your Email</emailPlaceholder>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2018-01-31T17:21:46.898Z</createdDate>
+	<createdDate_dt>2018-01-31T17:21:46.898Z</createdDate_dt>
+	<lastModifiedDate>2018-02-16T15:25:28.769Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-16T15:25:28.769Z</lastModifiedDate_dt>
+	<imageContact>/static-assets/img/1080x360-01.jpg</imageContact>
+	<contactUsPlaceholder>Contact Us!!</contactUsPlaceholder>
+	<emailCompanyPlaceholder>Email</emailCompanyPlaceholder>
+	<phonePlaceholder>Tel</phonePlaceholder>
+	<phoneInfo>000-000-0000</phoneInfo>
+	<faxPlaceholder>Fax</faxPlaceholder>
+	<faxInfo>000-000-0000</faxInfo>
+	<addressInfo>991 Curabitur molestie dui vel, metus iaculis suscipit 11900</addressInfo>
+	<contactInfo>&lt;p&gt;&lt;span&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</contactInfo>
+	<sendButton>Submit</sendButton>
+	<addressPlaceholder>Mailing Address</addressPlaceholder>
+	<emailCompanylnfo>mycompany@company.com</emailCompanylnfo>
+	<latitude>9.937811</latitude>
+	<longitude>-84.093018</longitude>
+	<contactEmails>	<item>	<email>ruth.fernandez@rivetlogic.com</email>
+	</item>	<item>	<email>ruthfdezsoto@gmail.com</email>
+	</item></contactEmails>
+</page>
