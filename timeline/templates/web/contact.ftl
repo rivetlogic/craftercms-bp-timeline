@@ -26,9 +26,6 @@ http://www.tooplate.com/view/2094-mason
           <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
-       <style type="text/css">
-       .error {color: #f00;}
-    </style>
 </head>
 
 <body>
