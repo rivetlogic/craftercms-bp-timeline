@@ -1,10 +1,11 @@
-function sendEmail(btn){
-	var thisButton = $(btn);
+function sendEmail(){
+	var thisButton = $('#form-submit');
     alertify.set('notifier','position', 'top-right');
 
    if(!thisButton.hasClass("loading") && !thisButton.hasClass("done")){
       var frm = $("#contact-form");
       if (!frm[0].checkValidity()) {
+      	alertify.error('Please fill all fields required or check the email format.');
         frm.find('input[type=submit]').click()
       } else {
           var data = frm.serializeArray();
@@ -29,7 +30,6 @@ function sendEmail(btn){
 }
 
 function dateBannerColor(){
-
 	//Colors banner and button
     var arrayColors = ["tm-bg-pink", "tm-bg-green", "tm-bg-red", "tm-bg-gray"];
     var arrayColorsButton = ["tm-button-pink", "tm-button-green", "tm-button-red", "tm-button-gray"]; 
@@ -47,11 +47,12 @@ $(document).ready(function() {
     dateBannerColor();
     
 	//--------- Page Contact: Active the Alertify  -------
-	$('#form-submit').click(function (e){
-    	e.preventDefault();
-        sendEmail(this);
-    });
-    
+        
+    $("#contact-form").submit(function(e){
+      e.preventDefault();
+      sendEmail();
+    });   
+
     //--------- Manu: Active the class "active" ------
     var page = window.location.href;
     var arrayPage = page.split('/');

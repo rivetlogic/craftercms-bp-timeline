@@ -9,12 +9,12 @@
                    
   <nav class="tm-main-nav">
     <ul class="tm-main-nav-ul">
+    	<li class="tm-nav-item"><a href="/timeline" id="btn-timeline" class="tm-nav-item-link tm-button">Timeline</a>
+      	</li>
       <#if contentModel.showGallery == "true">
         <li class="tm-nav-item"><a href="/gallery" id="btn-gallery" class="tm-nav-item-link tm-button">Gallery</a>
         </li>
       </#if>
-      <li class="tm-nav-item"><a href="/timeline" id="btn-timeline" class="tm-nav-item-link tm-button">Timeline</a>
-      </li>
       <li class="tm-nav-item"><a href="/about" id="btn-about" class="tm-nav-item-link tm-button">About</a>
       </li>
       <li class="tm-nav-item"><a href="/contact" id="btn-contact" class="tm-nav-item-link tm-button">Contact</a>

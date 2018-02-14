@@ -26,6 +26,9 @@ http://www.tooplate.com/view/2094-mason
           <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+       <style type="text/css">
+       .error {color: #f00;}
+    </style>
 </head>
 
 <body>
@@ -43,16 +46,15 @@ http://www.tooplate.com/view/2094-mason
                             <h2 class="tm-section-title tm-blue-text">${contentModel.contactUsPlaceholder}</h2>
                             <form id="contact-form" action="/doContact" method="post" class="contact-form">
                                 <div class="form-group">
-                                    <input type="text" id="contact_name" name="contact_name" class="form-control" placeholder="${contentModel.namePlaceholder}"  required/>
+                                    <input type="text" id="contact_name" name="contact_name" class="form-control" placeholder="${contentModel.namePlaceholder}" required/>
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" id="contact_email" name="contact_email" class="form-control" placeholder="${contentModel.emailPlaceholder}"  required/>
+                                   <input type="email" id="contact_email" name="contact_email" class="form-control" placeholder="${contentModel.emailPlaceholder}" required/>
                                 </div>
                                 <div class="form-group">
                                     <textarea id="contact_message" name="contact_message" class="form-control" rows="9" placeholder="${contentModel.messagePlaceholder}" required></textarea>
                                 </div>
                                 <input id="form-submit" type="submit" value="${contentModel.sendButton}" class="btn btn-primary tm-button-rounded tm-button-orange tm-button-no-border tm-button-normal"/>
-                                <input type="submit" value="Send message" style="display:none"/>
                             </form>
                         </div>
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
@@ -126,15 +128,12 @@ http://www.tooplate.com/view/2094-mason
             script.type = 'text/javascript';
             script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyDVWt4rJfibfsEDvcuaChUaZRS5NXey1Cs&v=3.exp&sensor=false&' + 'callback=initialize';
             document.body.appendChild(script);
-        } 
+        }
 
         $(document).ready(function(){           
 
             // Google Map
             loadGoogleMap();    
-
-            // Update the current year in copyright
-            //$('.tm-current-year').text(new Date().getFullYear());        
         });
     </script>
     <@studio.toolSupport/>
