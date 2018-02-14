@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article-page</content-type>	<display-template>/templates/web/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b2cf</objectGroupId>
+	<objectId>b2cf1454-736e-1416-1f31-b261756a07dd</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test6</folder-name>
+	<internal-name>test6</internal-name>
+	<titleArticle>Curabitur molestie felis</titleArticle>
+	<buttonText>Read More</buttonText>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<summary>Sed ac ipsum eget mi hendrerit viverra. Maecenas ultrices dolor sit amet feugiat hendrerit. Aenean ut blandit arcu. Suspendisse tempus tortor sed egestas varius.</summary>
+	<image>/static-assets/img/610x610-02.jpg</image>
+	<content>&lt;p&gt;&lt;span&gt;Aliquam posuere dapibus turpis, vitae vulputate urna dictum sit amet. Maecenas blandit tortor nec sapien luctus, id efficitur purus porta. Nullam ac augue in felis interdum vestibulum. Ut justo orci, scelerisque sed ullamcorper ac, ultrices eget sapien. Suspendisse mollis feugiat nulla ac posuere. Vestibulum malesuada enim velit, et gravida velit lobortis in. Quisque eget lacus vitae metus efficitur efficitur. Donec facilisis ipsum dolor, id sagittis mauris fermentum id. Proin ut elit tristique, sodales magna eget, vestibulum erat. Aenean a posuere metus. Nulla lobortis sit amet sapien vulputate fringilla. Ut bibendum, ligula sed mollis pharetra, risus metus finibus nibh, eget luctus dui nulla vestibulum sapien. Integer fermentum sapien sit amet ex volutpat convallis. Donec semper iaculis condimentum. Aliquam pellentesque lacinia urna, ut fermentum ante mollis eget. Integer tristique enim eu lorem consequat euismod.&lt;/span&gt;&lt;/p&gt;</content>
+	<createdDate>2018-02-02T22:49:54.209Z</createdDate>
+	<createdDate_dt>2018-02-02T22:49:54.209Z</createdDate_dt>
+	<lastModifiedDate>2018-02-12T16:26:04.234Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-12T16:26:04.234Z</lastModifiedDate_dt>
+	<dateArticle>2018-03-18T04:00:00.000Z</dateArticle>
+	<dateArticle_dt>2018-03-14T22:26:04.000Z</dateArticle_dt>
+	<dateArticle_dt_tz>Etc/GMT+12</dateArticle_dt_tz>
+</page>

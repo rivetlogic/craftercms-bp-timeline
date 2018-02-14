@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article-page</content-type>	<display-template>/templates/web/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d790</objectGroupId>
+	<objectId>d790d32b-7a96-f19b-fb44-ed454c670830</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test7</folder-name>
+	<internal-name>test7</internal-name>
+	<titleArticle>Test 7</titleArticle>
+	<buttonText>Test 7</buttonText>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<summary>Loremmmm</summary>
+	<image>/static-assets/img/610x610-02.jpg</image>
+	<content>&lt;p&gt;Loremmmm loremmmm&lt;/p&gt;</content>
+	<dateArticle>2018-05-01T22:07:25.000Z</dateArticle>
+	<createdDate>2018-02-12T16:07:25.690Z</createdDate>
+	<createdDate_dt>2018-02-12T16:07:25.690Z</createdDate_dt>
+	<lastModifiedDate>2018-02-12T16:29:37.220Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-12T16:29:37.220Z</lastModifiedDate_dt>
+	<dateArticle_dt>2018-05-01T22:26:15.000Z</dateArticle_dt>
+	<dateArticle_dt_tz>Etc/GMT+12</dateArticle_dt_tz>
+</page>
