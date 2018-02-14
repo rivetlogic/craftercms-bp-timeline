@@ -1,10 +1,11 @@
 <div class="tm-sidebar sticky">
     <section id="welcome" class="tm-content-box tm-banner margin-b-15">
-      <div class="tm-banner-inner">
+      <a href="/"><div class="tm-banner-inner">
         <img class="margin-b-40" src="${contentModel.logoImage}"/>
         <h1 class="tm-banner-title">${contentModel.siteName}</h1>
         <p class="tm-banner-subtitle">${contentModel.subtitle}</p>                   
-      </div>                    
+      	</div>
+      </a>
     </section>
                    
   <nav class="tm-main-nav">

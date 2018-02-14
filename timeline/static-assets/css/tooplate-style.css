@@ -54,7 +54,9 @@ body {
 	overflow-x: hidden;
 	overflow-y: auto;
 }
-
+.tm-banner a{
+	text-decoration: none;
+}
 .tm-main-nav {
 	background-color: #EEEEEE;
 	font-size: 1.4rem;
