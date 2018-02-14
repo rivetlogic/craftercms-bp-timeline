@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/gallery-page</content-type>	<display-template>/templates/web/gallery.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d262</objectGroupId>
+	<objectId>d2623c1c-ba42-240c-e6c3-651df388718e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>gallery</folder-name>
+	<internal-name>gallery</internal-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<images>	<item>	<image>/static-assets/img/gallery-img-23-01.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Lorem ipsum</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-01.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Duis volutpat</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-02.jpg</image>
+	<urlImage>http://www.example.com/boot/bubble</urlImage>
+	<imageTitle>Sed non ex</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-12-01.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Nunc euismod sem non rutrum pellentesque</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-12-02.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Quisque eu dolor</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-03.jpg</image>
+	<urlImage>https://www.example.net/#bead</urlImage>
+	<imageTitle>Aliquam sit amet ex et massa commodo tincidunt</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-23-02.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Duis mattis erat nec dui auctor</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-04.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Fusce a turpis</imageTitle>
+	</item></images>
+	<createdDate>2018-02-08T22:24:09.251Z</createdDate>
+	<createdDate_dt>2018-02-08T22:24:09.251Z</createdDate_dt>
+	<lastModifiedDate>2018-02-09T21:33:58.825Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-09T21:33:58.825Z</lastModifiedDate_dt>
+</page>

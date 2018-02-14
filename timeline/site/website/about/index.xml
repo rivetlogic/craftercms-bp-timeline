@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-about</content-type>	<display-template>/templates/web/about.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>df46</objectGroupId>
+	<objectId>df466637-ec49-9c43-970b-b042398f9065</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>about</folder-name>
+	<internal-name>about</internal-name>
+	<title>Lorem Ipsum</title>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<information>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Praesent finibus egestas metus id pulvinar. Nullam condimentum purus sed accumsan ornare. Pellentesque leo urna, ornare in metus in, fermentum dictum est. Maecenas vehicula velit at enim tempus, et semper sem scelerisque. Sed id sapien venenatis, ultrices velit sit amet, blandit nisi. Mauris ac eros nisl.&lt;/p&gt;
+&lt;p&gt;Sed at mattis leo, in feugiat sem. Integer a orci neque. Aenean id lorem ut risus maximus interdum. Nunc sodales gravida semper. Mauris sollicitudin lectus imperdiet, cursus mauris ac, aliquet nulla. Integer vitae sodales elit. Morbi rutrum, dui at pharetra gravida, risus felis finibus est, at vestibulum nibh velit sed nisi.&lt;/p&gt;</information>
+	<createdDate>2018-01-30T21:42:55.977Z</createdDate>
+	<createdDate_dt>2018-01-30T21:42:55.977Z</createdDate_dt>
+	<lastModifiedDate>2018-02-08T01:42:10.784Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-08T01:42:10.784Z</lastModifiedDate_dt>
+	<latitude/>
+	<longitude/>
+</page>
