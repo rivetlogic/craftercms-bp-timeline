@@ -229,6 +229,14 @@ body {
     margin-top: 26px;
 }
 
+.grid-item a{ 
+	text-decoration: none;
+}
+
+.grid-item p{
+	background-color: #CC6733;
+    color: #fff;
+    margin-bottom: 0px;
 .grid-item p{
 	border: 1px solid #CC6733;
 }
@@ -306,12 +314,19 @@ address { line-height: 2; }
 	text-align: center;	
 }
 
+.tm-gallery-container a img{
+  text-decoration: none;
+ }
 .tm-gallery-container img{
 	cursor: pointer;
 }
 
 .tm-banner-inner{
 	height: 300px;
+}
+
+.media-body a{
+	text-decoration:none;
 }
 
 @media (min-width: 524px) {	

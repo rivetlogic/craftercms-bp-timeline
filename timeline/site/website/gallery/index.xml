@@ -10,6 +10,46 @@
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<images>	<item>	<image>/static-assets/img/gallery-img-23-01.jpg</image>
+	<urlImage>/gallery</urlImage>
+	<imageTitle>Lorem ipsum</imageTitle>
+	<withURL>true</withURL>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-01.jpg</image>
+	<urlImage>/gallery</urlImage>
+	<imageTitle>Duis volutpat</imageTitle>
+	<withURL>true</withURL>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-02.jpg</image>
+	<urlImage>/gallery</urlImage>
+	<imageTitle>Sed non ex</imageTitle>
+	<withURL>true</withURL>
+	</item>	<item>	<image>/static-assets/img/gallery-img-12-01.jpg</image>
+	<urlImage>/gallery</urlImage>
+	<imageTitle>Nunc euismod sem non rutrum pellentesque</imageTitle>
+	<withURL>true</withURL>
+	</item>	<item>	<image>/static-assets/img/gallery-img-12-02.jpg</image>
+	<urlImage>/gallery</urlImage>
+	<imageTitle>Quisque eu dolor</imageTitle>
+	<withURL>true</withURL>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-03.jpg</image>
+	<urlImage>/gallery</urlImage>
+	<imageTitle>Aliquam sit amet ex et massa commodo tincidunt</imageTitle>
+	<withURL>true</withURL>
+	</item>	<item>	<image>/static-assets/img/gallery-img-23-02.jpg</image>
+	<urlImage>/gallery</urlImage>
+	<imageTitle>Duis mattis erat nec dui auctor</imageTitle>
+	<withURL>true</withURL>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-04.jpg</image>
+	<urlImage>/gallery</urlImage>
+	<imageTitle>Fusce a turpis</imageTitle>
+	<withURL>true</withURL>
+	</item>	<item>	<image>/static-assets/img/gallery-img-23-03.jpg</image>
+	<urlImage>/gallery</urlImage>
+	<withURL>true</withURL>
+	<imageTitle>Turpis auctor</imageTitle>
+	</item></images>
+	<createdDate>2018-02-08T22:24:09.251Z</createdDate>
+	<createdDate_dt>2018-02-08T22:24:09.251Z</createdDate_dt>
+	<lastModifiedDate>2018-02-16T15:29:10.939Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-16T15:29:10.939Z</lastModifiedDate_dt>
 	<urlImage>https://example.com/</urlImage>
 	<imageTitle>Lorem ipsum</imageTitle>
 	</item>	<item>	<image>/static-assets/img/gallery-img-11-01.jpg</image>

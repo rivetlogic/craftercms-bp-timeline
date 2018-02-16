@@ -213,6 +213,7 @@
 					<constraints>
 						<constraint>
 							<name>required</name>
+							<value><![CDATA[false]]></value>
 							<value><![CDATA[true]]></value>
 							<type>boolean</type>
 						</constraint>
@@ -220,6 +221,29 @@
 							<name>pattern</name>
 							<value><![CDATA[]]></value>
 							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>checkbox</type>
+					<id>withURL</id>
+					<iceId>visible</iceId>
+					<title>With URL</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[false]]></value>
+							<type>boolean</type>
 						</constraint>
 					</constraints>
 				</field>

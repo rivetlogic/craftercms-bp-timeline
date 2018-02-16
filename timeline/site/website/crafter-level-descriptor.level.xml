@@ -8,6 +8,8 @@
 	<folder-name/>
 	<createdDate>2017-10-9T16:52:48.000Z</createdDate>
 	<createdDate_dt>2017-10-9T16:52:48.000Z</createdDate_dt>
+	<lastModifiedDate>2018-02-15T22:02:38.543Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-15T22:02:38.543Z</lastModifiedDate_dt>
 	<lastModifiedDate>2018-02-14T18:31:27.153Z</lastModifiedDate>
 	<lastModifiedDate_dt>2018-02-14T18:31:27.153Z</lastModifiedDate_dt>
 	<latitud>9.937811</latitud>
@@ -21,5 +23,6 @@
 	<showGallery>true</showGallery>
 	<siteName>Mason</siteName>
 	<subtitle>Blue print</subtitle>
+	<logoImage>/static-assets/img/logo.png</logoImage>
 	<logoImage>/static-assets/img/75x75.png</logoImage>
 </component>

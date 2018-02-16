@@ -39,6 +39,15 @@ http://www.tooplate.com/view/2094-mason
                         <div class="grid"> 
                             <#list contentModel.images.item as img>                    
                                 <div class="grid-item" style="width: 280px">
+                                	<#if img.withURL == "true">
+                                    	<a href="${img.urlImage}" target="_blank">
+                                        	<p>${img.imageTitle}</p>
+                                        	<img src="${img.image}" alt="Image">
+                                        </a>
+                                        <#else>
+                                        	<p>${img.imageTitle}</p>
+                                        	<img src="${img.image}" alt="Image">
+                                    </#if>
                                 	<p>${img.imageTitle}</p>
                                 	<a href="${img.urlImage}" target="_blank"><img src="${img.image}" alt="Image"></a>
                                 </div>
