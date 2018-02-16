@@ -50,4 +50,32 @@
 	<createdDate_dt>2018-02-08T22:24:09.251Z</createdDate_dt>
 	<lastModifiedDate>2018-02-16T15:29:10.939Z</lastModifiedDate>
 	<lastModifiedDate_dt>2018-02-16T15:29:10.939Z</lastModifiedDate_dt>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Lorem ipsum</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-01.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Duis volutpat</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-02.jpg</image>
+	<urlImage>http://www.example.com/boot/bubble</urlImage>
+	<imageTitle>Sed non ex</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-12-01.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Nunc euismod sem non rutrum pellentesque</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-12-02.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Quisque eu dolor</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-03.jpg</image>
+	<urlImage>https://www.example.net/#bead</urlImage>
+	<imageTitle>Aliquam sit amet ex et massa commodo tincidunt</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-23-02.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Duis mattis erat nec dui auctor</imageTitle>
+	</item>	<item>	<image>/static-assets/img/gallery-img-11-04.jpg</image>
+	<urlImage>https://example.com/</urlImage>
+	<imageTitle>Fusce a turpis</imageTitle>
+	</item></images>
+	<createdDate>2018-02-08T22:24:09.251Z</createdDate>
+	<createdDate_dt>2018-02-08T22:24:09.251Z</createdDate_dt>
+	<lastModifiedDate>2018-02-09T21:33:58.825Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-02-09T21:33:58.825Z</lastModifiedDate_dt>
 </page>

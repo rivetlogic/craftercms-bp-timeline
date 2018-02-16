@@ -43,6 +43,8 @@ http://www.tooplate.com/view/2094-mason
                           <div class="media-body tm-flexbox-ie-fix tm-width-ie-fix tm-bg-light-gray">
                             <div class="p-5">
                                 <a href="${utils.renderURL(article.storeUrl)}"><h2 class="mb-4 mt-0 tm-blue-text tm-timeline-item-title">${article.queryValue('titleArticle')}</h2></a>
+
+                                <h2 class="mb-4 mt-0 tm-blue-text tm-timeline-item-title">${article.queryValue('titleArticle')}</h2>
                                 <p class="mb-4">
                                	  ${article.queryValue('summary')}
                                 </p>

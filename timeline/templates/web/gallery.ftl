@@ -48,7 +48,8 @@ http://www.tooplate.com/view/2094-mason
                                         	<p>${img.imageTitle}</p>
                                         	<img src="${img.image}" alt="Image">
                                     </#if>
-                                	
+                                	<p>${img.imageTitle}</p>
+                                	<a href="${img.urlImage}" target="_blank"><img src="${img.image}" alt="Image"></a>
                                 </div>
                             </#list>
                         </div>                    
